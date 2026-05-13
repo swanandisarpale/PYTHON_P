@@ -5,7 +5,7 @@ def parent(name):
     
     def gm():
         return "good morning "+name
-    
+
     def gn():
         return "good night "+name
     
